@@ -16,3 +16,7 @@ La base de datos cuenta con la siguiente información:
  “Felicidad”. Un número entre 0 y 10 que describe el nivel de felicidad.  
  
  “GDP”. Un número que describe el producto interno bruto.
+
+- [HTML](./A1_2_588359%(5).html)
+- [Jupyter Notebook](./A1.2_588359%(5).ipynb)
+- [Base de Datos](./A1.2%20Felicidad%20y%20GDP.csv)
